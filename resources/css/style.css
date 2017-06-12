@@ -1,0 +1,64 @@
+body{
+	text-align: center;
+	font-family: Helvetica;
+	horizontal-align: middle;
+}
+
+h1{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+.title {
+	background-image: url("../images/building.png");
+	background-size: cover;
+}
+
+#menu{
+	list-style-type: none;	
+}
+
+#menu a {
+    color: white;
+    font-size: 18px;
+}
+
+h3 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h6 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p{
+	font-size: 14px;
+}
+
+#middle-band {
+	background-image: url("../images/building.png");
+	background-size: cover;
+}
+
+#middle-band h6{
+	color: white;
+}
+
+#copy {
+	font-size: 11px;
+}
+
+.footer{
+	background-color: dimgray;
+	text-align: left;
+}
+
+.footer li{
+	
+	color: white;
+	display: inline-block;
+}
+
